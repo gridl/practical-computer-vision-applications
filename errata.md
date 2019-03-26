@@ -1,13 +1,5 @@
 # Errata for *Book Title*
 
-On **page xx** [Summary of error]:
+On **page 51**:
  
-Details of error here. Highlight key pieces in **bold**.
-
-***
-
-On **page xx** [Summary of error]:
- 
-Details of error here. Highlight key pieces in **bold**.
-
-***
+Figure 2-3, as it appears in the book, doesn't quite match the figure caption. We have uploaded a revised version of the figure (Figure 2-3.JPG) that correctly matches the figure caption.
